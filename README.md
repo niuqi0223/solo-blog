@@ -10,6 +10,7 @@ niuqi0223 的个人博客
 
 ### 最新
 
+* [双11过去了，双12要来了，你准备好了吗？](https://www.murmur.xyz/articles/2019/11/22/1574409108660.html)
 * [世界，你好！](https://www.murmur.xyz/hello-solo)
 
 
