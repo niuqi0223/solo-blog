@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Spring中bean的三种实例化方式](https://www.murmur.xyz/articles/2019/11/29/1575019226584.html)
 * [solo-docker自动更新脚本](https://www.murmur.xyz/articles/2019/11/26/1574749030345.html)
 * [世界，你好！](https://www.murmur.xyz/hello-solo)
 
