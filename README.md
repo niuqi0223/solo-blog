@@ -1,4 +1,4 @@
-<p align="center"><img alt="奔跑的诗人" src="https://avatars2.githubusercontent.com/u/39475555?v=4"></p><h2 align="center">
+<p align="center"><img alt="奔跑的诗人" src="https://www.murmur.xyz/skins/solo-nexmoe/images/favicon.jpg"></p><h2 align="center">
 奔跑的诗人
 </h2>
 
