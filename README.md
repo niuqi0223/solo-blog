@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [IDEA里面如何快速搜索一个类编译之后的class文件?](https://www.murmur.xyz/articles/2019/12/09/1575872504181.html)
 * [Spring中bean的三种实例化方式](https://www.murmur.xyz/articles/2019/11/29/1575019226584.html)
 * [solo-docker自动更新脚本](https://www.murmur.xyz/articles/2019/11/26/1574749030345.html)
 * [世界，你好！](https://www.murmur.xyz/hello-solo)
